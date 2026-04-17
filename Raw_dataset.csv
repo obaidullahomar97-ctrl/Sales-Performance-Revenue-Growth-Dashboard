@@ -1,0 +1,121 @@
+Date,Month,Quarter,Year,Region,State/City,Sales Executive Name,Product Category,Product Name,Units Sold,Selling Price,Revenue,Cost,Profit,Profit Margin %,Customer Type (New/Existing),Sales Channel (Online/Offline),Target Sales,Actual Sales,Achievement %,Growth %
+2024-11-23,Nov,Q4,2024,North,New York / New York,Vikram Singh,Furniture,Standing Desk,25,694.45,17361.25,11545.91,5815.34,0.335,Existing,Online,16954.59,17361.25,1.024,-0.0887
+2024-04-21,Apr,Q2,2024,South,Georgia / Atlanta,Aarav Mehta,Software,Analytics Suite,50,1257.32,62866.0,26396.62,36469.38,0.5801,New,Offline,68701.8,62866.0,0.9151,-0.0975
+2024-03-22,Mar,Q1,2024,West,California / San Francisco,Vikram Singh,Furniture,Standing Desk,105,382.54,40166.7,22724.99,17441.71,0.4342,New,Offline,41416.6,40166.7,0.9698,0.2067
+2024-08-23,Aug,Q3,2024,North,Massachusetts / Boston,Priya Sharma,Software,Project Tracker,45,1208.71,54391.95,26628.97,27762.98,0.5104,Existing,Offline,46980.9,54391.95,1.1577,-0.0134
+2024-05-28,May,Q2,2024,North,New York / New York,Priya Sharma,Appliances,Water Dispenser,66,445.98,29434.68,18897.7,10536.98,0.358,Existing,Online,27377.0,29434.68,1.0752,0.2559
+2024-11-27,Nov,Q4,2024,North,Illinois / Chicago,Rahul Verma,Software,Analytics Suite,15,966.5,14497.5,5210.24,9287.26,0.6406,Existing,Offline,13278.04,14497.5,1.0918,0.0232
+2024-01-29,Jan,Q1,2024,South,Texas / Houston,Ananya Iyer,Appliances,Water Dispenser,16,208.15,3330.4,2465.48,864.92,0.2597,Existing,Online,3485.7,3330.4,0.9554,0.0503
+2024-11-25,Nov,Q4,2024,West,California / Los Angeles,Vikram Singh,Furniture,Standing Desk,103,557.87,57460.61,34169.88,23290.73,0.4053,Existing,Offline,55726.46,57460.61,1.0311,-0.0167
+2024-03-11,Mar,Q1,2024,West,California / Los Angeles,Aarav Mehta,Electronics,Tablet Air X,88,375.18,33015.84,24064.49,8951.35,0.2711,Existing,Online,33965.59,33015.84,0.972,0.0779
+2024-05-08,May,Q2,2024,North,Illinois / Chicago,Priya Sharma,Software,Project Tracker,46,777.27,35754.42,13034.99,22719.43,0.6354,New,Online,38136.65,35754.42,0.9375,0.1735
+2024-09-13,Sep,Q3,2024,South,Georgia / Atlanta,Priya Sharma,Office Supplies,Laser Printer,27,112.21,3029.67,1552.13,1477.54,0.4877,Existing,Offline,3410.04,3029.67,0.8885,0.1276
+2024-09-07,Sep,Q3,2024,North,New York / New York,Ananya Iyer,Office Supplies,Laser Printer,15,76.55,1148.25,681.45,466.8,0.4065,New,Offline,1257.11,1148.25,0.9134,0.2716
+2024-09-29,Sep,Q3,2024,South,Texas / Houston,Sneha Nair,Software,Analytics Suite,21,1067.89,22425.69,9720.43,12705.26,0.5665,Existing,Offline,24143.04,22425.69,0.9289,0.1621
+2024-12-31,Dec,Q4,2024,East,North Carolina / Charlotte,Ananya Iyer,Appliances,Mini Fridge,23,228.83,5263.09,3109.88,2153.21,0.4091,New,Offline,5402.73,5263.09,0.9742,-0.0973
+2024-12-28,Dec,Q4,2024,North,New York / New York,Priya Sharma,Electronics,Smartphone Max,17,807.27,13723.59,9120.1,4603.49,0.3354,Existing,Online,14643.15,13723.59,0.9372,0.2353
+2024-10-22,Oct,Q4,2024,West,California / Los Angeles,Sneha Nair,Appliances,Coffee Machine,20,144.28,2885.6,1885.1,1000.5,0.3467,Existing,Online,3083.91,2885.6,0.9357,0.1559
+2024-11-26,Nov,Q4,2024,North,New York / New York,Rohan Das,Office Supplies,Premium Notebook,39,63.35,2470.65,1450.91,1019.74,0.4127,New,Online,2442.95,2470.65,1.0113,0.2323
+2024-02-08,Feb,Q1,2024,West,Washington / Seattle,Priya Sharma,Electronics,Laptop Pro 14,19,1310.17,24893.23,18814.09,6079.14,0.2442,New,Online,22755.5,24893.23,1.0939,0.0524
+2024-01-31,Jan,Q1,2024,South,Florida / Miami,Aarav Mehta,Appliances,Water Dispenser,108,529.67,57204.36,35952.5,21251.86,0.3715,Existing,Offline,62067.21,57204.36,0.9217,0.1515
+2024-09-06,Sep,Q3,2024,South,Texas / Houston,Vikram Singh,Furniture,Ergo Chair,82,693.87,56897.34,31883.15,25014.19,0.4396,New,Online,56501.14,56897.34,1.007,0.2494
+2024-09-28,Sep,Q3,2024,South,Texas / Houston,Priya Sharma,Furniture,Ergo Chair,84,173.01,14532.84,10122.26,4410.58,0.3035,Existing,Offline,14836.61,14532.84,0.9795,0.12
+2024-01-21,Jan,Q1,2024,North,Massachusetts / Boston,Ananya Iyer,Office Supplies,Laser Printer,93,203.94,18966.42,10009.29,8957.13,0.4723,Existing,Offline,17828.42,18966.42,1.0638,0.0201
+2024-02-07,Feb,Q1,2024,North,Massachusetts / Boston,Priya Sharma,Electronics,Tablet Air X,72,503.54,36254.88,27891.66,8363.22,0.2307,Existing,Offline,34835.8,36254.88,1.0407,-0.0401
+2024-10-05,Oct,Q4,2024,East,DC / Washington,Aarav Mehta,Software,Project Tracker,47,410.56,19296.32,9516.71,9779.61,0.5068,New,Offline,20699.64,19296.32,0.9322,-0.0409
+2024-05-24,May,Q2,2024,South,Georgia / Atlanta,Ananya Iyer,Furniture,Storage Cabinet,72,501.05,36075.6,25393.87,10681.73,0.2961,Existing,Online,35248.49,36075.6,1.0235,0.0051
+2024-01-02,Jan,Q1,2024,East,Pennsylvania / Philadelphia,Vikram Singh,Furniture,Conference Table,78,670.42,52292.76,33747.35,18545.41,0.3546,New,Offline,55289.44,52292.76,0.9458,-0.0434
+2024-01-19,Jan,Q1,2024,East,DC / Washington,Rahul Verma,Appliances,Coffee Machine,13,262.62,3414.06,2501.91,912.15,0.2672,Existing,Offline,3822.65,3414.06,0.8931,-0.0202
+2024-05-07,May,Q2,2024,North,Massachusetts / Boston,Rohan Das,Software,Analytics Suite,20,1590.14,31802.8,16370.98,15431.82,0.4852,Existing,Offline,27268.86,31802.8,1.1663,0.1799
+2024-06-19,Jun,Q2,2024,West,Washington / Seattle,Neha Kapoor,Office Supplies,Laser Printer,108,199.94,21593.52,12016.97,9576.55,0.4435,New,Online,19647.34,21593.52,1.0991,0.249
+2024-06-28,Jun,Q2,2024,East,Pennsylvania / Philadelphia,Neha Kapoor,Electronics,Tablet Air X,59,580.48,34248.32,25970.38,8277.94,0.2417,Existing,Online,35701.97,34248.32,0.9593,0.0519
+2024-10-01,Oct,Q4,2024,East,Pennsylvania / Philadelphia,Priya Sharma,Office Supplies,Laser Printer,82,269.96,22136.72,11800.94,10335.78,0.4669,New,Online,23654.49,22136.72,0.9358,0.0192
+2024-11-06,Nov,Q4,2024,North,Massachusetts / Boston,Neha Kapoor,Office Supplies,Premium Notebook,98,128.86,12628.28,7374.71,5253.57,0.416,Existing,Offline,14296.21,12628.28,0.8833,0.1801
+2024-04-10,Apr,Q2,2024,East,North Carolina / Charlotte,Priya Sharma,Office Supplies,Ink Pack,92,239.27,22012.84,13734.93,8277.91,0.376,New,Online,21407.88,22012.84,1.0283,0.0529
+2024-05-31,May,Q2,2024,South,Texas / Houston,Rohan Das,Appliances,Coffee Machine,86,408.7,35148.2,22812.33,12335.87,0.351,Existing,Online,32092.23,35148.2,1.0952,0.1986
+2024-11-06,Nov,Q4,2024,East,North Carolina / Charlotte,Sneha Nair,Appliances,Coffee Machine,73,354.98,25913.54,18999.83,6913.71,0.2668,Existing,Online,22685.71,25913.54,1.1423,0.0959
+2024-11-20,Nov,Q4,2024,East,Pennsylvania / Philadelphia,Neha Kapoor,Office Supplies,Laser Printer,111,65.37,7256.07,3518.36,3737.71,0.5151,New,Online,8017.39,7256.07,0.905,-0.0723
+2024-07-31,Jul,Q3,2024,South,Georgia / Atlanta,Rohan Das,Appliances,Mini Fridge,39,172.64,6732.96,4692.17,2040.79,0.3031,Existing,Offline,7511.56,6732.96,0.8963,0.1958
+2024-04-22,Apr,Q2,2024,South,Georgia / Atlanta,Sneha Nair,Electronics,Tablet Air X,116,328.06,38054.96,24405.95,13649.01,0.3587,Existing,Online,38727.68,38054.96,0.9826,0.0206
+2024-08-14,Aug,Q3,2024,West,Washington / Seattle,Sneha Nair,Furniture,Conference Table,65,322.17,20941.05,12397.75,8543.3,0.408,Existing,Offline,21074.86,20941.05,0.9937,0.1382
+2024-05-20,May,Q2,2024,West,California / Los Angeles,Vikram Singh,Furniture,Storage Cabinet,50,369.37,18468.5,11853.56,6614.94,0.3582,New,Online,19543.09,18468.5,0.945,0.1684
+2024-02-02,Feb,Q1,2024,West,California / San Francisco,Ananya Iyer,Software,Cloud Backup,31,346.51,10741.81,5190.83,5550.98,0.5168,Existing,Offline,12179.26,10741.81,0.882,-0.0926
+2024-10-21,Oct,Q4,2024,West,California / San Francisco,Aarav Mehta,Office Supplies,Ink Pack,104,116.52,12118.08,7977.68,4140.4,0.3417,Existing,Online,12971.07,12118.08,0.9342,0.2039
+2024-04-22,Apr,Q2,2024,West,California / Los Angeles,Vikram Singh,Appliances,Mini Fridge,11,307.76,3385.36,2348.45,1036.91,0.3063,Existing,Offline,3731.18,3385.36,0.9073,0.2494
+2024-11-14,Nov,Q4,2024,North,Massachusetts / Boston,Aarav Mehta,Electronics,Noise-Cancel Headphones,25,1237.56,30939.0,20081.78,10857.22,0.3509,New,Online,30518.53,30939.0,1.0138,0.0283
+2024-07-13,Jul,Q3,2024,East,North Carolina / Charlotte,Vikram Singh,Electronics,Noise-Cancel Headphones,10,1093.81,10938.1,6872.78,4065.32,0.3717,Existing,Online,9522.55,10938.1,1.1487,0.2638
+2024-01-21,Jan,Q1,2024,North,New York / New York,Neha Kapoor,Electronics,Tablet Air X,38,333.99,12691.62,9228.25,3463.37,0.2729,Existing,Online,13451.08,12691.62,0.9435,0.1914
+2024-03-26,Mar,Q1,2024,North,New York / New York,Vikram Singh,Electronics,Laptop Pro 14,47,882.47,41476.09,31741.0,9735.09,0.2347,Existing,Offline,37722.46,41476.09,1.0995,0.125
+2024-11-17,Nov,Q4,2024,South,Texas / Houston,Vikram Singh,Software,CRM License,41,1463.08,59986.28,22577.93,37408.35,0.6236,Existing,Online,60093.55,59986.28,0.9982,0.0297
+2024-08-03,Aug,Q3,2024,West,California / Los Angeles,Rohan Das,Office Supplies,Desk Organizer,98,53.0,5194.0,2676.09,2517.91,0.4848,Existing,Offline,5374.61,5194.0,0.9664,0.2495
+2024-09-04,Sep,Q3,2024,West,California / San Francisco,Vikram Singh,Office Supplies,Laser Printer,114,262.48,29922.72,16032.16,13890.56,0.4642,Existing,Offline,30549.75,29922.72,0.9795,0.1539
+2024-06-21,Jun,Q2,2024,North,Massachusetts / Boston,Ananya Iyer,Furniture,Conference Table,35,396.76,13886.6,8247.53,5639.07,0.4061,New,Offline,15470.12,13886.6,0.8976,0.1112
+2024-09-21,Sep,Q3,2024,South,Texas / Houston,Neha Kapoor,Appliances,Mini Fridge,79,514.57,40651.03,28350.17,12300.86,0.3026,Existing,Online,44223.44,40651.03,0.9192,-0.0646
+2024-04-23,Apr,Q2,2024,West,Washington / Seattle,Neha Kapoor,Office Supplies,Ink Pack,68,160.33,10902.44,5982.73,4919.71,0.4512,Existing,Offline,10417.75,10902.44,1.0465,0.0724
+2024-06-05,Jun,Q2,2024,East,Pennsylvania / Philadelphia,Priya Sharma,Furniture,Storage Cabinet,23,699.45,16087.35,11448.55,4638.8,0.2884,Existing,Online,17238.9,16087.35,0.9332,0.0051
+2024-10-28,Oct,Q4,2024,East,Pennsylvania / Philadelphia,Neha Kapoor,Office Supplies,Laser Printer,54,60.09,3244.86,1566.71,1678.15,0.5172,Existing,Online,3706.57,3244.86,0.8754,0.1103
+2024-12-23,Dec,Q4,2024,South,Georgia / Atlanta,Sneha Nair,Electronics,Laptop Pro 14,81,526.89,42678.09,29729.31,12948.78,0.3034,New,Offline,39508.97,42678.09,1.0802,0.2275
+2024-02-28,Feb,Q1,2024,North,Massachusetts / Boston,Sneha Nair,Electronics,Laptop Pro 14,27,362.02,9774.54,6940.45,2834.09,0.2899,New,Offline,8655.7,9774.54,1.1293,0.1905
+2024-11-06,Nov,Q4,2024,South,Georgia / Atlanta,Rohan Das,Appliances,Mini Fridge,46,571.69,26297.74,19678.74,6619.0,0.2517,New,Offline,27162.65,26297.74,0.9682,0.1812
+2024-04-16,Apr,Q2,2024,South,Florida / Miami,Priya Sharma,Furniture,Standing Desk,30,550.55,16516.5,9523.59,6992.91,0.4234,Existing,Offline,16367.42,16516.5,1.0091,-0.0876
+2024-05-27,May,Q2,2024,East,DC / Washington,Sneha Nair,Electronics,Tablet Air X,41,1141.15,46787.15,33687.18,13099.97,0.28,Existing,Offline,45736.39,46787.15,1.023,0.1069
+2024-11-27,Nov,Q4,2024,South,Florida / Miami,Rahul Verma,Electronics,Laptop Pro 14,29,1147.01,33263.29,23790.14,9473.15,0.2848,Existing,Offline,32656.1,33263.29,1.0186,0.0781
+2024-06-04,Jun,Q2,2024,West,California / San Francisco,Sneha Nair,Appliances,Air Purifier,84,112.32,9434.88,6165.17,3269.71,0.3466,New,Online,8278.15,9434.88,1.1397,0.2655
+2024-10-21,Oct,Q4,2024,North,Illinois / Chicago,Vikram Singh,Software,CRM License,16,979.28,15668.48,6946.34,8722.14,0.5567,Existing,Online,16069.58,15668.48,0.975,0.1412
+2024-09-08,Sep,Q3,2024,North,Massachusetts / Boston,Ananya Iyer,Appliances,Water Dispenser,49,465.27,22798.23,16547.29,6250.94,0.2742,New,Offline,21349.75,22798.23,1.0678,0.2592
+2024-10-08,Oct,Q4,2024,North,Massachusetts / Boston,Priya Sharma,Office Supplies,Ink Pack,49,43.07,2110.43,1339.09,771.34,0.3655,Existing,Offline,1794.59,2110.43,1.176,0.2304
+2024-08-24,Aug,Q3,2024,West,California / Los Angeles,Neha Kapoor,Software,Project Tracker,44,1422.49,62589.56,27388.56,35201.0,0.5624,Existing,Online,63513.75,62589.56,0.9854,0.2525
+2024-08-12,Aug,Q3,2024,West,California / Los Angeles,Aarav Mehta,Software,Analytics Suite,50,495.49,24774.5,10434.64,14339.86,0.5788,Existing,Online,28433.13,24774.5,0.8713,0.2469
+2024-08-24,Aug,Q3,2024,North,Illinois / Chicago,Rahul Verma,Appliances,Water Dispenser,73,485.03,35407.19,23037.1,12370.09,0.3494,Existing,Online,34948.17,35407.19,1.0131,-0.045
+2024-04-07,Apr,Q2,2024,South,Texas / Houston,Vikram Singh,Appliances,Water Dispenser,108,374.33,40427.64,29087.42,11340.22,0.2805,New,Online,41482.05,40427.64,0.9746,0.2796
+2024-09-07,Sep,Q3,2024,South,Florida / Miami,Sneha Nair,Office Supplies,Ink Pack,78,216.45,16883.1,9377.58,7505.52,0.4446,Existing,Offline,19318.19,16883.1,0.8739,-0.0093
+2024-07-15,Jul,Q3,2024,South,Florida / Miami,Aarav Mehta,Office Supplies,Desk Organizer,98,256.8,25166.4,13998.72,11167.68,0.4438,Existing,Offline,26314.13,25166.4,0.9564,-0.0422
+2024-01-19,Jan,Q1,2024,South,Georgia / Atlanta,Ananya Iyer,Electronics,Noise-Cancel Headphones,20,821.66,16433.2,11389.99,5043.21,0.3069,Existing,Online,17196.27,16433.2,0.9556,-0.0413
+2024-08-28,Aug,Q3,2024,East,North Carolina / Charlotte,Rohan Das,Electronics,Smartphone Max,117,1002.72,117318.24,82753.89,34564.35,0.2946,Existing,Offline,130954.33,117318.24,0.8959,0.0854
+2024-10-04,Oct,Q4,2024,North,Illinois / Chicago,Priya Sharma,Furniture,Storage Cabinet,37,702.48,25991.76,16213.01,9778.75,0.3762,New,Offline,28896.96,25991.76,0.8995,0.0686
+2024-12-21,Dec,Q4,2024,East,Pennsylvania / Philadelphia,Aarav Mehta,Office Supplies,Premium Notebook,45,108.07,4863.15,2753.21,2109.94,0.4339,New,Online,5128.39,4863.15,0.9483,-0.0316
+2024-03-30,Mar,Q1,2024,North,Illinois / Chicago,Rohan Das,Software,Analytics Suite,36,1664.88,59935.68,19867.83,40067.85,0.6685,Existing,Online,55536.28,59935.68,1.0792,-0.0964
+2024-08-26,Aug,Q3,2024,East,DC / Washington,Rahul Verma,Electronics,Noise-Cancel Headphones,52,1384.94,72016.88,48097.53,23919.35,0.3321,Existing,Offline,71084.31,72016.88,1.0131,0.0148
+2024-07-15,Jul,Q3,2024,West,California / Los Angeles,Neha Kapoor,Appliances,Water Dispenser,81,255.69,20710.89,14474.37,6236.52,0.3011,New,Offline,20063.5,20710.89,1.0323,-0.0969
+2024-12-17,Dec,Q4,2024,North,Illinois / Chicago,Sneha Nair,Office Supplies,Laser Printer,85,226.92,19288.2,10103.18,9185.02,0.4762,New,Online,20767.09,19288.2,0.9288,0.1916
+2024-12-14,Dec,Q4,2024,South,Georgia / Atlanta,Priya Sharma,Electronics,Smartphone Max,108,717.8,77522.4,55252.68,22269.72,0.2873,Existing,Online,72757.34,77522.4,1.0655,0.184
+2024-03-30,Mar,Q1,2024,South,Texas / Houston,Ananya Iyer,Software,Project Tracker,15,648.3,9724.5,4681.68,5042.82,0.5186,Existing,Offline,10443.8,9724.5,0.9311,0.0287
+2024-02-28,Feb,Q1,2024,West,California / Los Angeles,Rahul Verma,Furniture,Conference Table,116,747.58,86719.28,53087.96,33631.32,0.3878,Existing,Online,87670.74,86719.28,0.9891,0.0728
+2024-12-10,Dec,Q4,2024,East,DC / Washington,Rohan Das,Office Supplies,Premium Notebook,94,74.66,7018.04,3403.78,3614.26,0.515,Existing,Offline,7892.32,7018.04,0.8892,-0.0159
+2024-02-02,Feb,Q1,2024,West,Washington / Seattle,Vikram Singh,Appliances,Air Purifier,25,115.39,2884.75,1691.4,1193.35,0.4137,Existing,Online,2655.24,2884.75,1.0864,0.1043
+2024-07-17,Jul,Q3,2024,West,California / San Francisco,Rohan Das,Software,Analytics Suite,31,1265.13,39219.03,18958.97,20260.06,0.5166,Existing,Offline,36627.52,39219.03,1.0708,0.1623
+2024-04-21,Apr,Q2,2024,West,California / San Francisco,Neha Kapoor,Office Supplies,Premium Notebook,95,110.45,10492.75,6928.77,3563.98,0.3397,Existing,Online,9787.26,10492.75,1.0721,0.2679
+2024-08-20,Aug,Q3,2024,North,Illinois / Chicago,Neha Kapoor,Software,CRM License,8,1469.53,11756.24,4156.83,7599.41,0.6464,New,Offline,10234.78,11756.24,1.1487,0.1908
+2024-04-16,Apr,Q2,2024,South,Texas / Houston,Ananya Iyer,Furniture,Ergo Chair,43,789.56,33951.08,19508.19,14442.89,0.4254,New,Online,30635.73,33951.08,1.1082,0.1512
+2024-01-14,Jan,Q1,2024,South,Texas / Houston,Ananya Iyer,Furniture,Storage Cabinet,10,255.91,2559.1,1430.3,1128.8,0.4411,Existing,Online,2747.7,2559.1,0.9314,0.081
+2024-07-04,Jul,Q3,2024,North,Massachusetts / Boston,Neha Kapoor,Software,CRM License,47,1058.25,49737.75,19933.37,29804.38,0.5992,Existing,Online,49424.13,49737.75,1.0063,0.0526
+2024-12-17,Dec,Q4,2024,North,Massachusetts / Boston,Sneha Nair,Electronics,Laptop Pro 14,49,922.12,45183.88,28488.85,16695.03,0.3695,New,Offline,45839.36,45183.88,0.9857,0.0236
+2024-11-01,Nov,Q4,2024,East,North Carolina / Charlotte,Rohan Das,Electronics,Laptop Pro 14,117,978.75,114513.75,87080.03,27433.72,0.2396,Existing,Offline,112111.36,114513.75,1.0214,0.2375
+2024-07-30,Jul,Q3,2024,East,North Carolina / Charlotte,Rohan Das,Appliances,Air Purifier,48,328.99,15791.52,10944.6,4846.92,0.3069,Existing,Online,17795.39,15791.52,0.8874,-0.0745
+2024-02-13,Feb,Q1,2024,North,Massachusetts / Boston,Priya Sharma,Office Supplies,Laser Printer,79,28.07,2217.53,1488.68,728.85,0.3287,Existing,Offline,2158.19,2217.53,1.0275,0.232
+2024-08-04,Aug,Q3,2024,North,Massachusetts / Boston,Vikram Singh,Office Supplies,Premium Notebook,81,147.99,11987.19,6124.81,5862.38,0.4891,Existing,Offline,11448.18,11987.19,1.0471,0.1114
+2024-02-28,Feb,Q1,2024,East,DC / Washington,Neha Kapoor,Appliances,Air Purifier,85,610.29,51874.65,37402.05,14472.6,0.279,New,Online,55029.13,51874.65,0.9427,0.0174
+2024-06-22,Jun,Q2,2024,East,Pennsylvania / Philadelphia,Rahul Verma,Furniture,Conference Table,16,230.66,3690.56,2427.06,1263.5,0.3424,New,Offline,3375.16,3690.56,1.0934,0.0595
+2024-06-23,Jun,Q2,2024,South,Florida / Miami,Vikram Singh,Office Supplies,Premium Notebook,14,53.7,751.8,474.3,277.5,0.3691,New,Online,738.97,751.8,1.0174,0.0611
+2024-11-06,Nov,Q4,2024,West,California / San Francisco,Vikram Singh,Furniture,Ergo Chair,52,455.33,23677.16,14162.54,9514.62,0.4018,Existing,Online,24864.33,23677.16,0.9523,-0.0827
+2024-07-21,Jul,Q3,2024,North,New York / New York,Neha Kapoor,Office Supplies,Laser Printer,106,48.78,5170.68,2746.17,2424.51,0.4689,New,Online,5553.85,5170.68,0.931,-0.0332
+2024-07-13,Jul,Q3,2024,South,Georgia / Atlanta,Ananya Iyer,Electronics,Noise-Cancel Headphones,118,1085.29,128064.22,88338.08,39726.14,0.3102,Existing,Online,120882.15,128064.22,1.0594,0.0631
+2024-07-26,Jul,Q3,2024,West,California / San Francisco,Priya Sharma,Appliances,Air Purifier,49,186.25,9126.25,6763.41,2362.84,0.2589,Existing,Offline,8748.02,9126.25,1.0432,0.066
+2024-02-24,Feb,Q1,2024,South,Florida / Miami,Rohan Das,Software,CRM License,30,1599.31,47979.3,22266.09,25713.21,0.5359,New,Offline,41881.79,47979.3,1.1456,0.1406
+2024-09-28,Sep,Q3,2024,South,Florida / Miami,Ananya Iyer,Furniture,Standing Desk,21,234.23,4918.83,2870.32,2048.51,0.4165,Existing,Offline,5148.31,4918.83,0.9554,-0.0327
+2024-11-17,Nov,Q4,2024,West,California / San Francisco,Sneha Nair,Software,Project Tracker,45,740.02,33300.9,13212.06,20088.84,0.6033,Existing,Offline,36261.31,33300.9,0.9184,0.1247
+2024-06-29,Jun,Q2,2024,North,Massachusetts / Boston,Sneha Nair,Appliances,Air Purifier,15,296.49,4447.35,2796.51,1650.84,0.3712,Existing,Offline,3900.72,4447.35,1.1401,0.1258
+2024-07-15,Jul,Q3,2024,West,Washington / Seattle,Aarav Mehta,Appliances,Coffee Machine,49,428.8,21011.2,13977.33,7033.87,0.3348,Existing,Online,22971.34,21011.2,0.9147,0.2182
+2024-12-31,Dec,Q4,2024,North,Illinois / Chicago,Rahul Verma,Electronics,Tablet Air X,98,714.07,69978.86,48306.93,21671.93,0.3097,Existing,Online,67309.56,69978.86,1.0397,0.0075
+2024-07-28,Jul,Q3,2024,East,DC / Washington,Aarav Mehta,Office Supplies,Premium Notebook,50,37.33,1866.5,1149.16,717.34,0.3843,New,Offline,1954.17,1866.5,0.9551,0.2444
+2024-03-17,Mar,Q1,2024,East,Pennsylvania / Philadelphia,Rahul Verma,Office Supplies,Ink Pack,91,199.19,18126.29,10121.57,8004.72,0.4416,Existing,Offline,17090.82,18126.29,1.0606,0.0431
+2024-06-17,Jun,Q2,2024,South,Georgia / Atlanta,Priya Sharma,Appliances,Water Dispenser,10,293.05,2930.5,1789.49,1141.01,0.3894,New,Offline,2918.43,2930.5,1.0041,-0.0139
+2024-03-11,Mar,Q1,2024,South,Texas / Houston,Vikram Singh,Electronics,Laptop Pro 14,92,590.85,54358.2,40366.9,13991.3,0.2574,New,Online,48850.31,54358.2,1.1128,0.2159
+2024-11-15,Nov,Q4,2024,South,Georgia / Atlanta,Sneha Nair,Electronics,Noise-Cancel Headphones,54,1005.16,54278.64,35715.61,18563.03,0.342,Existing,Online,58325.71,54278.64,0.9306,0.0706
+2024-09-30,Sep,Q3,2024,South,Florida / Miami,Sneha Nair,Furniture,Storage Cabinet,94,858.76,80723.44,57907.34,22816.1,0.2826,Existing,Online,77862.74,80723.44,1.0367,0.1004
+2024-03-23,Mar,Q1,2024,South,Georgia / Atlanta,Rahul Verma,Office Supplies,Premium Notebook,90,140.8,12672.0,7023.36,5648.64,0.4458,Existing,Offline,12732.48,12672.0,0.9952,-0.0526
+2024-02-12,Feb,Q1,2024,South,Florida / Miami,Sneha Nair,Software,Analytics Suite,32,392.16,12549.12,6278.46,6270.66,0.4997,Existing,Offline,14169.73,12549.12,0.8856,0.0577
+2024-07-21,Jul,Q3,2024,East,Pennsylvania / Philadelphia,Rohan Das,Electronics,Smartphone Max,36,214.39,7718.04,5934.65,1783.39,0.2311,Existing,Offline,8392.71,7718.04,0.9196,-0.0477
+2024-05-26,May,Q2,2024,West,Washington / Seattle,Rahul Verma,Appliances,Mini Fridge,86,92.94,7992.84,4743.5,3249.34,0.4065,New,Offline,8109.87,7992.84,0.9856,0.1763
+2024-09-27,Sep,Q3,2024,West,California / Los Angeles,Vikram Singh,Furniture,Storage Cabinet,23,157.24,3616.52,2247.2,1369.32,0.3786,Existing,Online,3194.32,3616.52,1.1322,0.244
+2024-11-01,Nov,Q4,2024,North,Illinois / Chicago,Neha Kapoor,Furniture,Storage Cabinet,62,121.22,7515.64,4584.38,2931.26,0.39,Existing,Online,7894.91,7515.64,0.952,0.0989
